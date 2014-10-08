@@ -1,0 +1,19 @@
+# Laravel
+/bootstrap/compiled.php
+/vendor
+
+# Composer
+composer.phar
+composer.lock
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# PDT-specific
+.buildpath
+
+# OS
+Thumbs.db
+.gitattributes
