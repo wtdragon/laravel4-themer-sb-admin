@@ -4,19 +4,17 @@
 	"keywords": ["admin-dashboard", "full-websites", "unstyled", "laravel", "sb admin", "templating"],
 	"license": "MIT",
 	"type": "laravel-theme",
-    "authors": [
-        {
-            "name": "Alex Jesus",
-            "email": "aljes@gmail.com",
-            "homepage": "https://github.com/aljes",
-            "role": "Developer"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/aljes/laravel4-themer-sb-admin/issues?state=open",
-        "wiki": "https://github.com/aljes/laravel4-themer-sb-admin/wiki",
-        "source": "https://github.com/aljes/laravel4-themer-sb-admin"
-    },
+    	"authors": [
+        	{
+            		"name": "Alex Jesus",
+            		"email": "aljes@gmail.com"
+        	}
+    	],
+    	"support": {
+        	"issues": "https://github.com/aljes/laravel4-themer-sb-admin/issues?state=open",
+        	"wiki": "https://github.com/aljes/laravel4-themer-sb-admin/wiki",
+        	"source": "https://github.com/aljes/laravel4-themer-sb-admin"
+	},
 	"require": {
 		"laravel/framework": "4.2.*"
 	},
@@ -46,5 +44,6 @@
 	"config": {
 		"preferred-install": "dist"
 	},
-	"minimum-stability": "stable"
+	"minimum-stability": "dev",
+	"prefer-stable": true
 }
