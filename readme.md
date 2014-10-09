@@ -1,5 +1,9 @@
 Laravel 4 Themer SB Admin
 =========================
+[![Build Status](https://travis-ci.org/aljes/laravel4-themer-sb-admin.svg)](https://travis-ci.org/aljes/laravel4-themer-sb-admin)
+[![Latest Stable Version](https://poser.pugx.org/aljes/laravel4-themer-sb-admin/v/stable.svg)](https://packagist.org/packages/aljes/laravel4-themer-sb-admin) 
+[![Total Downloads](https://poser.pugx.org/aljes/laravel4-themer-sb-admin/downloads.svg)](https://packagist.org/packages/aljes/laravel4-themer-sb-admin) 
+[![Latest Unstable Version](https://poser.pugx.org/aljes/laravel4-themer-sb-admin/v/unstable.svg)](https://packagist.org/packages/aljes/laravel4-themer-sb-admin) [![License](https://poser.pugx.org/aljes/laravel4-themer-sb-admin/license.svg)](https://packagist.org/packages/aljes/laravel4-themer-sb-admin)
 
 O Laravel 4 Themer SB Admin é a integração Laravel Framework com o tema SB Admin.
 
