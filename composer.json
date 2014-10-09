@@ -10,7 +10,7 @@
             "email": "aljes@gmail.com",
             "homepage": "https://github.com/aljes",
             "role": "Developer"
-        },
+        }
     ],
     "support": {
         "issues": "https://github.com/aljes/laravel4-themer-sb-admin/issues?state=open",
