@@ -18,7 +18,7 @@
         "source": "https://github.com/aljes/laravel4-themer-sb-admin"
     },
 	"require": {
-		"laravel/framework": "4.2.*",
+		"laravel/framework": "4.2.*"
 	},
 	"autoload": {
 		"classmap": [
