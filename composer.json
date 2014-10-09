@@ -4,10 +4,12 @@
 	"keywords": ["admin-dashboard", "full-websites", "unstyled", "laravel", "sb admin", "templating"],
 	"license": "MIT",
 	"type": "laravel-theme",
-	"authors": [{
-		"name": "Alex Jesus",
-		"email": "aljes@gmail.com"
-	}],
+	"authors": [
+		{
+			"name": "Alex Jesus",
+			"email": "aljes@gmail.com"
+		}
+	],
 	"support": {
 		"issues": "https://github.com/aljes/laravel4-themer-sb-admin/issues?state=open",
 		"wiki": "https://github.com/aljes/laravel4-themer-sb-admin/wiki",
