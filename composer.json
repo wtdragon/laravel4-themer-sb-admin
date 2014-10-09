@@ -1,10 +1,24 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
+	"name": "aljes/laravel4-themer-sb-admin",
+	"description": "Integração do thema SB Admin com o Laravel Framework.",
+	"keywords": ["admin-dashboard", "full-websites", "unstyled", "laravel", "sb admin", "templating"],
 	"license": "MIT",
+	"type": "laravel-theme",
+    "authors": [
+        {
+            "name": "Alex Jesus",
+            "email": "aljes@gmail.com",
+            "homepage": "https://github.com/aljes",
+            "role": "Developer"
+        },
+    ],
+    "support": {
+        "issues": "https://github.com/aljes/laravel4-themer-sb-admin/issues?state=open",
+        "wiki": "https://github.com/aljes/laravel4-themer-sb-admin/wiki",
+        "source": "https://github.com/aljes/laravel4-themer-sb-admin"
+    },
 	"require": {
-		"laravel/framework": "4.2.*"
+		"laravel/framework": "4.2.*",
 	},
 	"autoload": {
 		"classmap": [
